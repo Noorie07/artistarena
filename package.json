@@ -1,0 +1,22 @@
+{
+  "name": "artist-arena",
+  "version": "1.0.0",
+  "description": "Premium artist booking and event management platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noorie07/artistarena.git"
+  },
+  "keywords": [
+    "artist-booking",
+    "event-management",
+    "entertainment",
+    "artists",
+    "events"
+  ],
+  "author": "Artist Arena",
+  "license": "MIT"
+}
